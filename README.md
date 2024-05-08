@@ -1,6 +1,6 @@
 ## <center>🔥**RHCSA Study Points**🔥</center> 
 These are my learnings which I did from various sources like Youtube, Red Hat site and some books to clear my RHCSA exam.
-<img src="/image/Linux.png" width="1000" height="450">
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/s2-1.jpg width="1000" height="450">
 
 ### This repository comprises crucial study notes. I've completed courses such as RH124, RH134, and RHCSA Rapid Track. I've meticulously studied each concept and documented key insights to enhance Linux skills and knowledge. Engaging with practice exam questions provides valuable insights into the exam format, fostering confidence through problem-solving.
 
